@@ -94,7 +94,7 @@ std::future<void> quicksort_async(
         finish();
     };
     pool.submit(task);
-    return root ? fut : std::future<void>();
+    return root ? std::move(fut) : std::future<void>();
 }
 template std::future<void> quicksort_async<int>(
     ThreadPool &, std::vector<int> &, int, int,
