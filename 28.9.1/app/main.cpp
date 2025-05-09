@@ -1,7 +1,7 @@
+#include "merge_sort.hpp"
 #include <iostream>
 #include <vector>
 #include <random>
-#include "merge_sort.hpp"
 #include <windows.h>
 int main()
 {
