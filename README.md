@@ -75,7 +75,7 @@ cmake --build .
 
 Если у вас есть вопросы или предложения, свяжитесь со мной:
 
-- Email: [dim4dmi7rij@yandex.ru](dim4dmi7rij@yandex.ru)
+- Email: [dim4dmi7rij@yandex.ru](mailto:dim4dmi7rij@yandex.ru)
 - Telegram: @dimbo1324
 
 ---
